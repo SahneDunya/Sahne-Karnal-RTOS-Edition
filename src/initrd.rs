@@ -60,4 +60,5 @@ impl InitRd {
     }
 
     // İleride buraya dosya arama, metadata okuma gibi fonksiyonlar eklenebilir.
+
 }
